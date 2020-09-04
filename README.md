@@ -38,11 +38,10 @@ Hi there, I'm **Roshan Mishra**, a **Full Stack Developer and Deep Learning Enth
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 [![](https://raw.githubusercontent.com/rinem/rinem/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/rinem/github-profile-summary-cards)
-[![https://github.com/rinem/github-profile-summary-cards](https://raw.githubusercontent.com/rinem/rinem/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/rinem/github-profile-summary-cards)
-[![https://github.com/rinem/github-profile-summary-cards](https://raw.githubusercontent.com/rinem/rinem/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![https://github.com/rinem/github-profile-summary-cards](https://raw.githubusercontent.com/rinem/rinem/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/rinem/github-profile-summary-cards)
+[![https://github.com/rinem/github-profile-summary-cards](https://raw.githubusercontent.com/rinem/rinem/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=rinem&show_icons=true&hide_border=true&theme=cobalt)
-![Roshan's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rinem&layout=compact&show_icons=true&hide_border=true&theme=cobalt)
+
 
 <br />
 
