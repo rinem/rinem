@@ -26,7 +26,7 @@ Hi there, I'm **Roshan Mishra**, a **Full Stack Developer and Deep Learning Enth
 - 💼 I’m pursuing a Bachelor's degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via roshanmishrarinem@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1mdhdBXsNPTPl2y61hbXWEsf_NGkevrDE/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1jDzbtWcwBAeG7L0BLu1PD8HtG9WTrN1P/view?usp=sharing) to get more info.
 
 **Languages and Tools:**  
 
