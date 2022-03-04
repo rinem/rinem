@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Roshan 
 
-<a href="https://www.linkedin.com/in/roshan-mishra-719b55142/">
+<a href="https://www.linkedin.com/in/roshan13/">
   <img align="left" alt="Bishal's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -13,13 +13,13 @@ Hi there, I'm **Roshan Mishra**, a **Full Stack Developer and Deep Learning Enth
   
 **More about me:**
 
-- 💻 I’m currently a final year student in ADGITM, GGSIPU, Delhi 
-- 🌱 I’m currently learning about Deep Learning, MERN stack and full stack development; 
-- 🤔 My interests include Machine Learning, Web Development, App Devlopment etc..;
-- 💼 I’m pursuing a Bachelor's degree in Information Technology;
+- 💻 I’m currently a SDE-1 at Nova Benefits
+- 🌱 I’m currently learning about MERN stack and full stack development; 
+- 🤔 My interests include Full-Stack Development, App Devlopment etc..;
+- 💼 I have a Bachelor's degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via roshanmishrarinem@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1I-Z5BehjD0uHrywy3-g5n7nCJN3zIxwt/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1At-xQ-8955EOe63ywWuXr9NaIIW-SG5Z/view?usp=sharing) to get more info.
 
 **Languages and Tools:**  
 
