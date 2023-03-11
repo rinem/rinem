@@ -15,11 +15,10 @@ Hi there, I'm **Roshan Mishra**, a **Full Stack Developer and Deep Learning Enth
 
 - 💻 I’m currently a SDE-1 at Nova Benefits
 - 🌱 I’m currently learning about MERN stack and full stack development; 
-- 🤔 My interests include Full-Stack Development, App Devlopment etc..;
+- 🤔 I'm intrested in Full-Stack Development roles;
 - 💼 I have a Bachelor's degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via roshanmishrarinem@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1At-xQ-8955EOe63ywWuXr9NaIIW-SG5Z/view?usp=sharing) to get more info.
+- 📫 Please email via hi@roshanmishra.co.in to reach me.
 
 **Languages and Tools:**  
 
