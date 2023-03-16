@@ -13,20 +13,17 @@ Hi there, I'm **Roshan Mishra**, a **Full Stack Developer and Deep Learning Enth
   
 **More about me:**
 
-- 💻 I’m currently a SDE-1 at Nova Benefits
-- 🌱 I’m currently learning about MERN stack and full stack development; 
-- 🤔 I'm intrested in Full-Stack Development roles;
+- 💻 I’m working as a SDE-1 at Nova Benefits
+- 🌱 I’m currently learning more about Full-Stack Development; 
+- 🤔 I'm intrested in Software Engineering roles;
 - 💼 I have a Bachelor's degree in Information Technology;
-- 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via hi@roshanmishra.co.in to reach me.
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 [![](https://raw.githubusercontent.com/rinem/rinem/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/rinem/github-profile-summary-cards)
