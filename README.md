@@ -1,20 +1,16 @@
 ### Hey 👋, I'm Roshan 
 
-<a href="https://www.linkedin.com/in/roshan13/">
-  <img align="left" alt="Roshan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 <br />
 
-Hi there, I'm **Roshan Mishra**, a **Full Stack Developer and Deep Learning Enthusiast** 🚀 from New Delhi, India. 
+Hi there, I'm a **Full Stack Developer** 🚀 from New Delhi, India;
   
 **More about me:**
 
-- 💻 I’m working as a SDE-1 at Nova Benefits
+- 💻 I’m working as a SDE-1 at Nova Benefits;
 - 🌱 I’m currently learning more about Full-Stack Development; 
 - 🤔 I'm interested in Software Engineering roles;
 - 💼 I have a Bachelor's degree in Information Technology;
-- 📫 Please email via roshanmishrarinem@gmail.com to reach me.
+- 📫 Please email via roshanmishrarinem@gmail.com to reach me;
 
 **Languages and Tools:**  
 
