@@ -2,7 +2,7 @@
 
 <br />
 
-Hi there, I'm a **Full Stack Developer** 🚀 from New Delhi, India;
+A **Full Stack Developer** 🚀 from New Delhi, India;
   
 **More about me:**
 
