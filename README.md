@@ -2,11 +2,11 @@
 
 <br />
 
-A **Full Stack Developer** 🚀 from New Delhi, India;
+A **Full-Stack Developer** 🚀 from New Delhi, India;
   
 **More about me:**
 
-- 💻 I’m working as a SDE-1 at Nova Benefits;
+- 💻 I’m working as a SDE-2 at Nova Benefits;
 - 🌱 I’m currently learning more about Full-Stack Development; 
 - 🤔 I'm interested in Software Engineering roles;
 - 💼 I have a Bachelor's degree in Information Technology;
